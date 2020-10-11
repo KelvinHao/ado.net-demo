@@ -1,0 +1,7 @@
+C:\hoctap\CN5\PRN292\projects\DemoDBUtil\bin\Debug\DemoDBUtil.exe.config
+C:\hoctap\CN5\PRN292\projects\DemoDBUtil\bin\Debug\DemoDBUtil.exe
+C:\hoctap\CN5\PRN292\projects\DemoDBUtil\bin\Debug\DemoDBUtil.pdb
+C:\hoctap\CN5\PRN292\projects\DemoDBUtil\obj\Debug\DemoDBUtil.csprojAssemblyReference.cache
+C:\hoctap\CN5\PRN292\projects\DemoDBUtil\obj\Debug\DemoDBUtil.csproj.CoreCompileInputs.cache
+C:\hoctap\CN5\PRN292\projects\DemoDBUtil\obj\Debug\DemoDBUtil.exe
+C:\hoctap\CN5\PRN292\projects\DemoDBUtil\obj\Debug\DemoDBUtil.pdb
